@@ -1,0 +1,22 @@
+10
+20
+Nan #30 wirte here by inter methode
+40
+50
+
+
+1000
+2000
+3000
+4000
+Nan   # 5000 wirte here by inter methode
+6000
+7000
+
+linear
+
+1- preserve data integrity
+2- smooth trends
+3- avoid data loss
+
+interpolate()
